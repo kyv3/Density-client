@@ -12,4 +12,5 @@ autominecart, rubberband, choruspredict, BurrowESP, PacketMend, Flatten, Viewmod
 - I removed the tracker which sent the player username to a webhook(now nuked so doesn't work anyway) so that they could know if it was leaked.
 
 ## Notes
-- Get wrecked retards ez inside
+- to build first run "gradlew setupDecompWorkspace" in the directory with the source code to decompile the minecraft classes, then do "gradlew build"
+- Just as a reminder that "private" clients are cringe
